@@ -1,0 +1,6 @@
+c:\users\open\documents\visual studio 2012\Projects\GeometricProgression\GeometricProgression\bin\Debug\GeometricProgression.exe.config
+c:\users\open\documents\visual studio 2012\Projects\GeometricProgression\GeometricProgression\bin\Debug\GeometricProgression.exe
+c:\users\open\documents\visual studio 2012\Projects\GeometricProgression\GeometricProgression\bin\Debug\GeometricProgression.pdb
+c:\users\open\documents\visual studio 2012\Projects\GeometricProgression\GeometricProgression\obj\Debug\GeometricProgression.csprojResolveAssemblyReference.cache
+c:\users\open\documents\visual studio 2012\Projects\GeometricProgression\GeometricProgression\obj\Debug\GeometricProgression.exe
+c:\users\open\documents\visual studio 2012\Projects\GeometricProgression\GeometricProgression\obj\Debug\GeometricProgression.pdb
